@@ -1,0 +1,16 @@
+edu.monash.fit2099.engine.actions
+edu.monash.fit2099.engine.capabilities
+edu.monash.fit2099.engine.displays
+edu.monash.fit2099.engine.positions
+edu.monash.fit2099.engine.weapons
+game
+game.actions
+game.actors
+game.actors.Pokemon
+game.behaviours
+game.grounds
+game.PokeItems
+game.Spawn
+game.time
+game.utilities
+game.Weapons
